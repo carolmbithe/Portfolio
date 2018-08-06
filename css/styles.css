@@ -16,8 +16,9 @@ h3{
 body{
   background-color: gray;
   font-family: sans-serif;
-
-  <img
+}
+img{
+  float :center;
 }
 p{
   font-family: serif;
