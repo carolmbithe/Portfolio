@@ -6,7 +6,7 @@ Caroline Mumo
 This application is meant to showcase what I have been taught in my first week in Moringa school ,the images,floats,box model in a webpage describing myself.
 
 # Deployment
-You can get my livesite at gh-pages with this link
+You can get my livesite at gh-pages with this link  https://carolmbithe.github.io/Portfolio/
 
 # Project setup instructions
 To start using this project use the following commands:
