@@ -41,3 +41,10 @@ ul{
 .adventures{
   background-color: yellow;
 }
+.test-box {
+       text-align: center;
+       border:10px solid #BE59AC;
+       padding: 7px;
+       margin: 20px;
+       background-color: #23F4EB;
+     }
