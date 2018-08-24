@@ -9,7 +9,7 @@ h2{
   text-align: center;
 }
 h3{
-  color: white;
+  color: red;
   font-style:italic;
   text-align: center;
 }
@@ -37,4 +37,7 @@ ul{
 }
 .unimportant{
   color:white;
+}
+.adventures{
+  background-color: yellow;
 }
