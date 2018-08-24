@@ -1,24 +1,26 @@
 h1{
   font-family: sans-serif;
-  color: blue;
+  color: white;
 }
 
 h2{
-  color: green;
+  color: white;
   font-style:italic;
   text-align: center;
 }
 h3{
-  color: red;
+  color: white;
   font-style:italic;
   text-align: center;
 }
 body{
-  background-color: gray;
+  background-color: #800000;
   font-family: sans-serif;
 }
+.image{
+  text-align: center;
+}
 img{
-  float :center;
   height: 300px;
   width: 300px;
 }
@@ -31,8 +33,8 @@ ul{
 
 }
 .important{
-  colr red;
+  color:white;
 }
 .unimportant{
-  color white;
+  color:white;
 }
